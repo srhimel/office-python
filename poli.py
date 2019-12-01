@@ -4,3 +4,6 @@ if str == rstr:
     print(str,"is polydrum")
 else:
     print(str,"is not polydrum")
+
+rstr = ','.join(reversed(str))
+print(rstr)

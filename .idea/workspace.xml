@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e27277a0-bf5d-42a0-9f4f-cf540235137b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sobalada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictonary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listcomprihencer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listerkhela.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tapol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poli.py" beforeDir="false" afterPath="$PROJECT_DIR$/poli.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sobalada">
+  <component name="RunManager" selected="Python.dictonary">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="turtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funarsum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictonary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funarsum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictonary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -94,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="namota" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listcomprihencer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/namota.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listcomprihencer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -115,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="poli" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listerkhela" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listerkhela.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -136,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sobalada" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sobalada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -157,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tapol" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="turtle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tapol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
@@ -180,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sobalada" />
-        <item itemvalue="Python.poli" />
-        <item itemvalue="Python.str" />
-        <item itemvalue="Python.namota" />
-        <item itemvalue="Python.funarsum" />
+        <item itemvalue="Python.dictonary" />
+        <item itemvalue="Python.set" />
+        <item itemvalue="Python.tapol" />
+        <item itemvalue="Python.listcomprihencer" />
+        <item itemvalue="Python.listerkhela" />
       </list>
     </recent_temporary>
   </component>
